@@ -1,0 +1,23 @@
+================================================================================
+Table of Contents                                       *schmetterling-contents*
+
+Introduction···············································|schmetterling-intro|
+schmetterling····················································|schmetterling|
+Setup······················································|schmetterling.setup|
+
+================================================================================
+Introduction                                               *schmetterling-intro*
+
+================================================================================
+schmetterling                                                    *schmetterling*
+
+M.test()                                                    *schmetterling.test*
+
+
+================================================================================
+Setup                                                      *schmetterling.setup*
+
+M.test()                                              *schmetterling.setup.test*
+
+
+vim:tw=78:ts=8:noet:ft=help:norl:
